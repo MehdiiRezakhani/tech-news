@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This website shows the latest news and events from the world of web technology. The data is loaded from rapidapi.com. NextJS has been used in this website.
 
 ## Getting Started
 
